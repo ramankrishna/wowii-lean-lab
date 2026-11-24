@@ -1,0 +1,9 @@
+graphs checked: 15549
+C40: hypothesis-satisfying graphs=15549 violations=0
+C61: hypothesis-satisfying graphs=15549 violations=0
+C199: hypothesis-satisfying graphs=4564 violations=0
+C84: hypothesis-satisfying graphs=15549 violations=0
+C189: hypothesis-satisfying graphs=3483 violations=0
+C72: hypothesis-satisfying graphs=15549 violations=0
+C96: hypothesis-satisfying graphs=15549 violations=0
+C133: hypothesis-satisfying graphs=15549 violations=0

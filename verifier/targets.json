@@ -1,0 +1,42 @@
+[
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture40.lean",
+  "theorem": "conjecture40",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture61.lean",
+  "theorem": "conjecture61",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture72.lean",
+  "theorem": "conjecture72",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture84.lean",
+  "theorem": "conjecture84",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture96.lean",
+  "theorem": "conjecture96",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture133.lean",
+  "theorem": "conjecture133",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture189.lean",
+  "theorem": "conjecture189",
+  "mode": "prove"
+ },
+ {
+  "file": "FormalConjectures/WrittenOnTheWallII/GraphConjecture199.lean",
+  "theorem": "conjecture199",
+  "mode": "prove"
+ }
+]

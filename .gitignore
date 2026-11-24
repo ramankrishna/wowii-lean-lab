@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.verifier_scratch/
+attempts.jsonl
+outbox/
+inbox/

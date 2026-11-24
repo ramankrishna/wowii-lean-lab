@@ -1,0 +1,14 @@
+{
+ "target_file": "targets/C84Leaf.lean",
+ "theorem": "conjecture84_leaf",
+ "sha256": "95cde43107e38af2917220ff16aabd47dd7ac84978e0a2eaabaa6169bc8a6cc2",
+ "registered_at": "2026-11-23T22:41:58.437074+00:00",
+ "success": "verifier.py ok=true via verify_watch (static, text lock, prefix lock, compile, type lock, axioms \u2286 {propext, Classical.choice, Quot.sound})",
+ "budget": "40 verifier submissions; stop and report if no complete informal proof exists first",
+ "null_result_policy": "report failure plainly; partial lemmas do not count",
+ "evidence_so_far": {
+  "leaf_graphs_checked_n_le_9": 63308,
+  "counterexamples": 0,
+  "path_version_false": "G?`FE_ (C4 with a pendant at each vertex): r=3, path=5, tree=6"
+ }
+}

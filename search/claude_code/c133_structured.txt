@@ -1,0 +1,16 @@
+Petersen: n=10 rad=2 C4=no l=3.000 need path>=5 -> induced path of 5: FOUND
+Hoffman-Singleton: n=50 rad=2 C4=no l=7.000 need path>=9 -> induced path of 9: FOUND
+PG(2,2) incidence: n=14 rad=3 C4=no l=3.000 need path>=6 -> induced path of 6: FOUND
+PG(2,3) incidence: n=26 rad=3 C4=no l=4.000 need path>=7 -> induced path of 7: FOUND
+PG(2,5) incidence: n=62 rad=3 C4=no l=6.000 need path>=9 -> induced path of 9: FOUND
+PG(2,7) incidence: n=114 rad=3 C4=no l=8.000 need path>=11 -> induced path of 11: FOUND
+PG(2,11) incidence: n=266 rad=3 C4=no l=12.000 need path>=15 -> induced path of 15: FOUND
+PG(2,13) incidence: n=366 rad=3 C4=no l=14.000 need path>=17 -> induced path of 17: FOUND
+ER_2 polarity: n=7 rad=2 C4=no l=2.143 need path>=29/7 -> induced path of 5: FOUND
+ER_3 polarity: n=13 rad=2 C4=no l=2.769 need path>=62/13 -> induced path of 5: FOUND
+ER_5 polarity: n=31 rad=2 C4=no l=3.871 need path>=182/31 -> induced path of 6: FOUND
+ER_7 polarity: n=57 rad=2 C4=no l=4.912 need path>=394/57 -> induced path of 7: FOUND
+ER_11 polarity: n=133 rad=2 C4=no l=6.947 need path>=170/19 -> induced path of 9: FOUND
+ER_13 polarity: n=183 rad=2 C4=no l=7.956 need path>=1822/183 -> induced path of 10: FOUND
+ER_17 polarity: n=307 rad=2 C4=no l=9.967 need path>=3674/307 -> induced path of 12: FOUND
+ER_19 polarity: n=381 rad=2 C4=no l=10.971 need path>=4942/381 -> induced path of 13: FOUND

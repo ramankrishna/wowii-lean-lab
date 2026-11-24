@@ -1,0 +1,9 @@
+connected 8-vertex labelled extensions checked: 119980
+C40: hypothesis-satisfying=119980 violations=0 []
+C61: hypothesis-satisfying=119980 violations=0 []
+C199: hypothesis-satisfying=27040 violations=0 []
+C84: hypothesis-satisfying=119980 violations=0 []
+C189: hypothesis-satisfying=16205 violations=0 []
+C72: hypothesis-satisfying=119980 violations=0 []
+C96: hypothesis-satisfying=119980 violations=0 []
+C133: hypothesis-satisfying=119980 violations=0 []
